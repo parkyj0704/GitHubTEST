@@ -3,4 +3,5 @@
 ### Branch 
  - Master
  - Develop
-**핫픽스로 에러 수정함**
+
+**핫픽스로 README 파일 에러 수정.**
